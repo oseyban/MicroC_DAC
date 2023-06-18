@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=kesme.mcpar
+Project1=ADCLED_YAK.mcpar
+Project2=DAC.mcpar
+[ActiveProject]
+Index=2
